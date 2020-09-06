@@ -1,5 +1,12 @@
 ﻿  3DEngine.cpp
 C:\repos\3DEngine\include\ShaderCompiler.h(46,40): warning C4101: 'e': unreferenced local variable
-C:\repos\3DEngine\src\3DEngine.cpp(186,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\repos\3DEngine\src\3DEngine.cpp(264,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(192,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(273,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(296,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(297,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(301,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(302,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(304,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(305,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\repos\3DEngine\src\3DEngine.cpp(314,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   3DEngine.vcxproj -> C:\repos\3DEngine\bin\Debug-x64\3DEngine.exe
